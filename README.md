@@ -1,6 +1,6 @@
 ## Resolução de desafio Bootcamp Potências Tech iFood/DIO
 
-### Desafio: # Escrevendo as classes de um Jogo
+### Desafio: Escrevendo as classes de um Jogo
 **O Que deve ser utilizado**
 
 - Variáveis
